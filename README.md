@@ -8,6 +8,9 @@ Configurar y usar roles de AWS IAM desde la línea de comandos (CLI) para permit
 5. Conecta el CLI con las credenciales del usuario s3-support.
 6. Asume el rol válido que permita escribir en el bucket.
 
+![image](https://github.com/user-attachments/assets/1fa12539-fd01-4a78-9b93-03103e5ceedc)
+
+
 # 1) Instalar AWS CLI
 
 ### Linux en ARM (Raspberry Pi)
